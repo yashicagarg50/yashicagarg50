@@ -1,5 +1,5 @@
 <h1 align= "center"> Hi there 👋, I am Yashica Garg</h1>
-<h2 align = "center">2nd Year B.Tech CSE student at IGDTUW, Delhi</h2>
+<h2 align = "center">3rd Year B.Tech CSE student at IGDTUW, Delhi</h2>
 <div align="middle">
 <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" height='200'>
 </div>
